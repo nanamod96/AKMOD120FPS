@@ -1,4 +1,4 @@
-# UNLOCK 120FPS OBB PUBG MOBILE 
+# UNLOCK 120FPS PUBG MOBILE NON ROOT
 # SUPPORT GL KR TW VNG
 ![Result](/unlock120fps.jpg)
 ## Installing
@@ -10,4 +10,4 @@
 pkg update -y && pkg upgrade -y && pkg install git -y && termux-setup-storage && git clone https://github.com/nanamod96/AKMOD_120FPS.git && cd AKMOD_120FPS && chmod +x setup && ./setup
 ```
 # 3. DONE
-# Next time when entering the tool, type "120fpa" and the tool will automatically start.
+# Next time when entering the tool, type "120fps" and the tool will automatically start.
