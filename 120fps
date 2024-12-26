@@ -1,0 +1,6 @@
+cd $HOME/AKMOD_120FPS
+chmod +x menu
+chmod +x nanamod96
+chmod +x akmodpubg
+chmod +x unlock
+./menu
